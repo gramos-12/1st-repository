@@ -1,1 +1,1 @@
-# 1st-repository
+This is HTML prototyping repository
