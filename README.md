@@ -10,3 +10,5 @@ Make sure you are in the compters cloned folder when using 'TERMINAL' or
 git add readme.md   
 git commit -m "readme.md"   
 git push origin main
+
+4/18/2025 Use css code to align 3 images horizontally
