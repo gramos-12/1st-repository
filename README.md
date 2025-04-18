@@ -11,4 +11,4 @@ git add readme.md
 git commit -m "readme.md"   
 git push origin main
 
-4/18/2025 Use css code to align 3 images horizontally
+4/18/2025 Used css code to align 3 images horizontally
