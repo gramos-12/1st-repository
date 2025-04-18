@@ -4,6 +4,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+  <style>
+    .image-container {
+        display: flex;
+        justify-content: space-around; /* Adjusts spacing between images */
+        align-items: center; /* Aligns images vertically in the center */
+    }
+    .image-container img {
+        max-width: 100%; /* Ensures images are responsive */
+        height: 350px;
+    }
+</style>
 </head>
 <body>
   <p>My Prototype Worksite</p>
@@ -20,9 +31,11 @@
     </div>
   </main>
   <aside>
-    <div class="left"><img src="images/Mt_Diablo.jpg" alt="London marathon" height="400px"></div>
-    <div class="middle"><img src="images/Mt_Diablo.jpg" alt="London marathon" height="400px"></div>
-    <div class="right"><img src="images/Mt_Diablo.jpg" alt="London marathon" height="400px"></div>
+    <div class="image-container">
+      <img src="images/Mt_Diablo.jpg" alt="London marathon">
+      <img src="images/Mt_Diablo.jpg" alt="London marathon">
+      <img src="images/Mt_Diablo.jpg" alt="London marathon">
+  </div>
   </aside>
 </body>
 </html>
