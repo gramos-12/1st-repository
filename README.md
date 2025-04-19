@@ -12,3 +12,5 @@ git commit -m "readme.md"
 git push origin main
 
 4/18/2025 Used css code to align 3 images horizontally
+
+4/19/2025 Added an Eternal styles.css file
